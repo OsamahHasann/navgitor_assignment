@@ -56,3 +56,16 @@ This is the core concept of the assignment. When the user clicks on the *"Back t
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/OsamahHasann/navgitor_assignment.git](https://github.com/OsamahHasann/navgitor_assignment.git)
+
+   Navigate to the project directory:
+<br>
+2. Bash
+cd navgitor_assignment
+Get dependencies:
+<br>
+3. Bash
+flutter pub get
+Run the app:
+<br>
+4. Bash
+flutter run
